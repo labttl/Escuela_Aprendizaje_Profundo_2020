@@ -15,14 +15,14 @@
 - [Consejo Nacional de Ciencia y Tecnología (CONACYT)](https://www.conacyt.gob.mx/)
 
 ### Organización
-- [Dr. Adrián Pastor López Monroy (CIMAT)](mailto:pastor.lopez@cimat.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
-- [Dr. Manuel Montes y Gómez (INAOE)](mailto:mmontesg@inaoep.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
-- [Dr. Luis Villaseñor Pineda (INAOE)](mailto:villasen@inaoep.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
+- [Dr. Adrián Pastor López Monroy (CIMAT)](https://www.cimat.mx/es/adri%C3%A1n-pastor-l%C3%B3pez-monroy)
+- [Dr. Manuel Montes y Gómez (INAOE)](https://ccc.inaoep.mx/directorio/investigadores/mmontes.php)
+- [Dr. Luis Villaseñor Pineda (INAOE)](https://ccc.inaoep.mx/directorio/investigadores/villasen.php)
 
 ### Instructores
-- [Mario Ezra Aragón (INAOE)](mailto:aragon.ezra@gmail.com?subject=Escuela%20Apredizaje%20Profundo%202020)
-- [Juan Luis García Mendoza (INAOE)](mailto:juanluis@inaoep.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
-- [Dr. Adrián Pastor López Monroy (CIMAT)](mailto:pastor.lopez@cimat.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
+- Mario Ezra Aragón (INAOE)
+- Juan Luis García Mendoza (INAOE)
+- [Dr. Adrián Pastor López Monroy (CIMAT)](https://www.cimat.mx/es/adri%C3%A1n-pastor-l%C3%B3pez-monroy)
 
 
 
