@@ -9,15 +9,21 @@
 - [Asociación Mexicana de Procesamiento de Lenguaje Natural (AMPLN)](http://ampln.mx/portal/inicio)
 - [Red Temática en Tecnologías del Lenguaje (RedTTL)](http://redttl.mx/)
 
+### Instituciones
+- [Centro de Investigación en Matemáticas (CIMAT)](https://www.cimat.mx/)
+- [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx/)
+- [Consejo Nacional de Ciencia y Tecnología (CONACYT)](https://www.conacyt.gob.mx/)
+
 ### Organización
-- Dr. Adrián Pastor López Monroy (Centro de Investigación en Matemáticas (CIMAT))
-- Dr. Manuel Montes y Gómez (Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE))
-- Dr. Luis Villaseñor Pineda (Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE))
+- [Dr. Adrián Pastor López Monroy (CIMAT)](mailto:pastor.lopez@cimat.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
+- [Dr. Manuel Montes y Gómez (INAOE)](mailto:mmontesg@inaoep.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
+- [Dr. Luis Villaseñor Pineda (INAOE)](mailto:villasen@inaoep.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
 
 ### Instructores
-- Mario Ezra Aragón (Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE))
-- Juan Luis García Mendoza (Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE))
-- Adrián Pastor López Monroy (Centro de Investigación en Matemáticas (CIMAT))
+- [Mario Ezra Aragón (INAOE)](mailto:aragon.ezra@gmail.com?subject=Escuela%20Apredizaje%20Profundo%202020)
+- [Juan Luis García Mendoza (INAOE)](mailto:juanluis@inaoep.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
+- [Dr. Adrián Pastor López Monroy (CIMAT)](mailto:pastor.lopez@cimat.mx?subject=Escuela%20Apredizaje%20Profundo%202020)
+
 
 
 ### Materiales complementarios
