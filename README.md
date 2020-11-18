@@ -29,4 +29,6 @@
 ### Materiales complementarios
 - [![Notebook Sesión 2]("https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white")](https://colab.research.google.com/drive/1z7OqJTUcwiVeAxDmf_Hefz4rmLdwZKGc?usp=sharing)
 
+### Reconocimiento
+"El Dr. López-Monroy agradece el apoyo a la Secretaría de Innovación, Ciencia y Educación Superior del Estado de Guanajuato (SICES), brindado a través del proyecto número SICES/CONV/435/2019 para realizar parte de este material."
 
